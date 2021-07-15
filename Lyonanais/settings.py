@@ -25,7 +25,7 @@ SECRET_KEY = 'z$l=-6woq!ucu&^g1%^6z2yfz*1pi8m*h+o8a*(0ywsu=^q3fh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'lespetitslyonnais.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'petitslyonnais.com','3.16.207.114']
 
 
 # Application definition
